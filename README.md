@@ -34,7 +34,7 @@ Please contact me before contributing to this project. My contact info is locate
 
 ## Tests
 
-The following link goes to the deployed project on Netlify: [Personal Portfolio](https://arjun-candidate-search.netlify.app/).
+The following link goes to the deployed project on Netlify: [Candidate Search](https://arjun-candidate-search.netlify.app/).
 
 ## License
 
