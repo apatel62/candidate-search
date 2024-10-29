@@ -15,7 +15,9 @@
 
 Use React to create a candidate search site that calls the GitHub API and displays a brief description about them. The user then can either dismiss or save this candidate which will then present the next candidate. This is repeated until there are no candidates to displays which alerts the user. Then, they can go to the Potential Candidates page to see a table of the candidates they saved. From there, they can narrow the list to find the best candidate by pressing the reject button. The pictures below show the candidate search and potential candidates pages, respectively.
 
-![Website Screenshot](/arjun-portfolio/src/assets/images/screenshot.png)
+![Website Homepage Screenshot](/images/homepage.png)
+
+![Website Saved Table Screenshot](/images/saved-table.png)
 
 
 ## Installation
@@ -32,7 +34,7 @@ Please contact me before contributing to this project. My contact info is locate
 
 ## Tests
 
-The following link goes to the deployed project on Netlify: [Personal Portfolio](https://arjun-portfolio-react.netlify.app/).
+The following link goes to the deployed project on Netlify: [Personal Portfolio](https://arjun-candidate-search.netlify.app/).
 
 ## License
 
